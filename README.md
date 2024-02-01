@@ -5,7 +5,7 @@ GraphiCore personal project aimed at developing a basic graphics library solely 
 
 - `library.c`: Contains the core implementations of the graphics functions.
 - `library.h`: The header file for the library, declaring the functions and any necessary data structures.
-- `driver.c`: A test program demonstrating the capabilities of PixeLoom.
+- `driver.c`: A test program demonstrating the capabilities of the library.
 
 ## Getting Started
 
