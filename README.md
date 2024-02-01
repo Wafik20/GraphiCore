@@ -28,4 +28,6 @@ Ensure you have a POSIX-compliant environment to compile and run this project. T
 Execute the `driver` program in your terminal:
 This will run the demonstration defined in `driver.c`, utilizing the graphics functions implemented in `library.c`.
 
-## Sample Output
+## Sample Driver Output
+![Sample GraphiCore Output](https://github.com/Wafik20/GraphiCore/blob/master/sample_run1.png)
+![Sample GraphiCore Output](https://github.com/Wafik20/GraphiCore/blob/master/sample_run2.png)
