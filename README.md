@@ -5,6 +5,7 @@ GraphiCore is a fun experiment aimed at developing a basic graphics library sole
 
 - `library.c`: Contains the core implementations of the graphics functions.
 - `library.h`: The header file for the library, declaring the functions and any necessary data structures.
+- `iso_font.h`: Apple's bit font map. 
 - `driver.c`: A test program demonstrating the capabilities of the library.
 
 ## Getting Started
